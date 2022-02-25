@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name" translatable="false">Digits Recognizer</string>
+    <string name="clear_button_text" translatable="false">Clear</string>
+    <string name="import_button_text" translatable="false">Import</string>
+    <string name="details_button_text" translatable="false">Details</string>
+    <string name="prediction_text_placeholder" translatable="false">Please draw digits or import</string>
+    <string name="classification_error_message" translatable="false">Error classifying drawing: %s</string>
+</resources>
